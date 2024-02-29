@@ -5,3 +5,4 @@
 - [ ] vim
 - [ ] ssh
 - [ ] direktori dan file
+- [ ] data struktur
