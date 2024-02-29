@@ -1,7 +1,7 @@
 # missing-semester
 - [x] markdown
 - [ ] git
-- [ ] http
+- [x] http
 - [ ] vim
 - [ ] ssh
 - [ ] direktori dan file
