@@ -1,6 +1,6 @@
 # missing-semester
 - [x] markdown
-- [ ] git
+- [x] git
 - [x] http
 - [ ] vim
 - [ ] ssh
