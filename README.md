@@ -2,7 +2,7 @@
 - [x] markdown
 - [x] git
 - [x] http
-- [ ] vim
+- [x] vim
 - [ ] ssh
 - [ ] direktori dan file
 - [ ] data struktur
