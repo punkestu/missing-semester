@@ -3,7 +3,10 @@
 - [x] git
 - [x] http
 - [x] vim
-- [ ] ssh
+- [x] ssh
+- [x] UDS
+- [x] frame buffer
+- [x] daemon
 - [ ] direktori dan file
 - [ ] data struktur
 
