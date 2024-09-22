@@ -1,9 +1,5 @@
 # HTTP
 
-## Missing in
-- semester: 2-3
-- matkul: PWEB, PAA, JARKOM
-
 ## Pengertian
 HTTP adalah salah satu struktur protokol yang dapat digunakan untuk transaksi data antar 2 endpoint yang berbentuk request dan response. 
 

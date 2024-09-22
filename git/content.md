@@ -1,9 +1,5 @@
 # GIT
 
-## Missing in
-- semester: 1
-- matkul: Algoritma, PBO, PAA, dan semua matkul dengan projek koding
-
 ## Pengertian
 Git adalah tool yang digunakan untuk memisahkan kode-kode yang kita buat dalam satu projek. Misal jika kita sudah membuat sebuah aplikasi atau fitur atau fungsi yang berjalan dengan baik, maka kita bisa simpan kode atau kondisi tersebut kedalam sebuah state yang disebut commit (atau bisa disebut versi jika skalanya lebih besar). 
 
