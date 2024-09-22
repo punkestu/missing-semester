@@ -7,5 +7,5 @@
 - [ ] direktori dan file
 - [ ] data struktur
 
-# repository markdown
-[github.com/punkestu/missing-semester](https://github.com/punkestu/missing-semester)
+# repository app
+[github.com/punkestu/missing-semester-app](https://github.com/punkestu/missing-semester-app)
