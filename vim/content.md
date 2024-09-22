@@ -1,9 +1,5 @@
 # VIM
 
-## Missing in
-- semester: 1-2
-- matkul: Adsis, PWEB, dan matkul koding(opsional)
-
 ## Pengertian
 Vim merupakan text editor (jika dikonfigurasi dengan benar bisa menjadi IDE) yang berbasis terminal. Karena berbasis terminal, Vim cukup sering digunakan saat melakukan konfigurasi pada server karena umumnya OS yang digunakan pada server hanya akan memberikan iterface CLI (CPanel tidak dihitung).
 

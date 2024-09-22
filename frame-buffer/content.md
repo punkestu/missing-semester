@@ -1,9 +1,5 @@
 # Frame Buffer
 
-## Missing in 
-- semester: 2
-- matkul: Sistem Operasi
-
 ## Pengertian
 Frame buffer adalah area memori yang digunakan untuk menyimpan data representasi piksel dari suatu gambar atau tampilan yang akan ditampilkan di layar. 
 

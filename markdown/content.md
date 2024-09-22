@@ -1,9 +1,5 @@
 # Markdown
 
-## Missing in 
-- semester: 1
-- matkul: Algoritma, PBO, PPL dan matkul programming + projek lainnya
-
 ## Pengertian
 Markdown adalah sebuah bahasa markup yang biasanya digunakan untuk membuat sebuah dokumen terutama oleh para programmer. Markdown ini nantinya akan menghasilkan sebuah file berekstensi (.md) yang jika dibuka dengan aplikasi atau program khusus, maka akan menampilkan sebuah dokumen yang terstruktur (akan mirip seperti dokumen pdf jika dibuka).
 
